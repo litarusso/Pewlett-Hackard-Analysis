@@ -33,7 +33,7 @@ The table on "Figure 2" displays the amount of retiring people in each titles. A
    <p align="center">  
      Figure 2: The list of retiring people with their title
    
-   
+ 
  - Mentorship Eligibility
    
    -  The table on "Figure 3" is a sample  of the people who are eligible for the mentorship program. Those people will be able to give trainings to the new generation of the company. This table is 1549 employees who can be mentors. For further information please look to the [mentorship_eligibility.csv]
@@ -50,4 +50,20 @@ The table on "Figure 2" displays the amount of retiring people in each titles. A
 
 ## Summary
   
+  Pewlett-Hackard will be facing a difficult time in some years. Howewer this wont be so bad because Bob is planing the future. To have a summary I prepared put here two more tables. 
+  If we compare the "Figure 3" with "Figure 4" and "Figure 5", we will see that we have a big human resourse that we can train until 'Silver Tsunami' will come. The new generation is more than retiring people and Pewlett-Hackard has enough mentorship eligible people.
+  <p align="center">  
+  <img width="252" alt="new _generation" src="https://user-images.githubusercontent.com/111788394/194958486-ce225e28-6636-443e-a886-ca6c49ae5844.png">
+   <p align="center">  
+Figure 5: New Generation
+  <p align="center">
+  <img width="253" alt="Screen Shot 2022-10-10 at 5 01 58 PM" src="https://user-images.githubusercontent.com/111788394/194958854-2dc82ab3-ff6a-4971-bbc6-c757c0ee9050.png">
+  <p align="center">
+    Figure 6: Mentors
+    
+
+      
+      
+      
+      
   
