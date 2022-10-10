@@ -24,12 +24,16 @@ The purpose of the new analysis is to prepare Pewlett-Hackard for the upcoming â
    
    Figure 1: The list of retiring people with their title
 
-- The table on "Figure 2" displays the amount of retiring people in each titles. This table is to see how frajile can be the situation in a couple of years. With this table the top managers will be convinced to take the precotions.
+- The table on "Figure 2" displays the amount of retiring people in each titles. As this is a time and money consuming program Bob has to show the importance of the project to the top management. This table is to show them how frajile can be the situation in a couple of years. With this table the top managers will be convinced to take the precotions.
 
    <img width="250" alt="figure3-Total amound_of_ retiring_people" src="https://user-images.githubusercontent.com/111788394/194945211-0f5277b1-25e3-4911-a899-ee22954213af.png">
    
    Figure 2: The list of retiring people with their title
    
- - The last table on "Figure 3" is a simple of the people who are eligible for the mentorship program. This is
+ - The last table on "Figure 3" is a sample  of the people who are eligible for the mentorship program. Those people will be able to give trainings to the new generation of the company. This table is 1550 employees who can be mentors.
+
+  <img width="733" alt="Figure4_Mentorship_eligible_pepople" src="https://user-images.githubusercontent.com/111788394/194948057-837b8034-a9c8-425b-86b2-e3b81e0b7221.png">
+
+
 
 ## Summary
