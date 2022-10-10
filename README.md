@@ -40,14 +40,13 @@ The table on "Figure 2" displays the amount of retiring people in each titles. A
 <p align="center">  
   <img width="738" alt="Figure4_Mentorship_eligibility" src="https://user-images.githubusercontent.com/111788394/194949898-97e099c4-67ec-42cb-8e5a-59ec8e3ef47b.png">
 <p align="center">  
-   Figure 3: Mentorship Eligible Retirings
+   Figure 3: Mentorship Eligible Employees
    
    -  The table on "Figure 4" is the amount of retiring people that are eligible to  mentorship program by title. I prepared this additional table to understand how many mentors will we have and in which departments.
  <p align="center">   
   <img width="253" alt="Screen Shot 2022-10-10 at 5 01 58 PM" src="https://user-images.githubusercontent.com/111788394/194952111-e1ff89a0-264b-429d-8735-fbc541083bb9.png">
 <p align="center">  
-   Figure 4: Mentorship Eligible Retirings by Titles
-
+   Figure 4: Mentorship Eligible Employees by Titles
 
 ## Summary
   
