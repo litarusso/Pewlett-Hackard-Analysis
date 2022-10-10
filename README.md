@@ -18,22 +18,38 @@ The purpose of the new analysis is to prepare Pewlett-Hackard for the upcoming â
 - This project is based on those twelve files.
 
 ## Results
-- The table on "Figure 1" displays the list of employees who is going to retire in the next few years, without duplicate titles. Which means all employees are with their last titles in that list.
 
+- Retiring Employees
+  The table on "Figure 1" displays the list of employees who is going to retire in the next few years, without duplicate titles. Which means all employees are with their last titles in that list.
+<p align="center">  
     <img width="496" alt="figure-1 retiring title_without_dublicates" src="https://user-images.githubusercontent.com/111788394/194944520-d1f8ac1e-ffe4-4f1d-a169-784752d477a1.png">
-   
+  <p align="center">   
    Figure 1: The list of retiring people with their title
 
-- The table on "Figure 2" displays the amount of retiring people in each titles. As this is a time and money consuming program Bob has to show the importance of the project to the top management. This table is to show them how frajile can be the situation in a couple of years. With this table the top managers will be convinced to take the precotions.
 
+- Total Amound of Retiring Employees By Titles
+The table on "Figure 2" displays the amount of retiring people in each titles. As this is a time and money consuming program Bob has to show the importance of the project to the top management. This table is to show them how frajile can be the situation in a couple of years. With this table the top managers will be convinced to take the precotions.
+
+   <p align="center">  
    <img width="250" alt="figure3-Total amound_of_ retiring_people" src="https://user-images.githubusercontent.com/111788394/194945211-0f5277b1-25e3-4911-a899-ee22954213af.png">
    
-   Figure 2: The list of retiring people with their title
+   <p align="center">  
+     Figure 2: The list of retiring people with their title
    
- - The last table on "Figure 3" is a sample  of the people who are eligible for the mentorship program. Those people will be able to give trainings to the new generation of the company. This table is 1550 employees who can be mentors.
-
-  <img width="733" alt="Figure4_Mentorship_eligible_pepople" src="https://user-images.githubusercontent.com/111788394/194948057-837b8034-a9c8-425b-86b2-e3b81e0b7221.png">
-
+   
+ - Mentorship Eligibility
+   
+   -  The table on "Figure 3" is a sample  of the people who are eligible for the mentorship program. Those people will be able to give trainings to the new generation of the company. This table is 1549 employees who can be mentors. For further information please look to the [mentorship_eligibility.csv]
+<p align="center">  
+  <img width="738" alt="Figure4_Mentorship_eligibility" src="https://user-images.githubusercontent.com/111788394/194949898-97e099c4-67ec-42cb-8e5a-59ec8e3ef47b.png">
+<p align="center">  
+   Figure 3: Mentorship Eligible Retirings
+   
+   -  The table on "Figure 4" is the amount of retiring people that are eligible to  mentorship program by title. I prepared this additional table to understand how many mentors will we have and in which departments.
+ <p align="center">   
+  <img width="253" alt="Screen Shot 2022-10-10 at 5 01 58 PM" src="https://user-images.githubusercontent.com/111788394/194952111-e1ff89a0-264b-429d-8735-fbc541083bb9.png">
+<p align="center">  
+   Figure 4: Mentorship Eligible Retirings by Titles
 
 
 ## Summary
