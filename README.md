@@ -13,7 +13,7 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 
 ### Created New Data From 6 csv Files Of HR Department.
 
-- The csv files we had were [docs/departments.csv], [employees.csv], [dept_emp.csv], [dept_manager], [salaries], [titles]. They were csv files converted from Excel.
+- The csv files we had were [docs/departments.csv], [docs/employees.csv], [dept_emp.csv], [dept_manager], [salaries], [titles]. They were csv files converted from Excel.
 - I prepared six more files to be able to prepare this analysis. I used the old data titles by using SQL, and prepared the new ones. Those new files are [current_emp.csv], [mentorship_eligibility.csv], [retirement_info.csv], [retirement_titles.csv], [retiring_titles.csv], [unique_titles.csv].
 - This project is based on those twelve files.
 
