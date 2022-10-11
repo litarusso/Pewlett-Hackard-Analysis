@@ -60,8 +60,9 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
    Figure 5: New Generation
      
    <p align="center">  
-<img width="253" alt="Screen Shot 2022-10-10 at 5 01 58 PM" src="https://user-images.githubusercontent.com/111788394/194960511-cd3a814b-20fb-4daa-a18f-5152d687b62b.png">
-      Figure 6: Eligible Mentors
+   <img width="253" alt="Screen Shot 2022-10-10 at 5 01 58 PM" src="https://user-images.githubusercontent.com/111788394/194960511-cd3a814b-20fb-4daa-a18f-5152d687b62b.png">
+   <p align="center">  
+   Figure 6: Eligible Mentors
 
 
     
