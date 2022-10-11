@@ -13,8 +13,8 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 
 ### Created New Data From 6 csv Files Of HR Department.
 
-- The csv files we had were [docs/departments.csv], [docs/employees.csv], [dept_emp.csv], [dept_manager], [salaries], [titles]. They were csv files converted from Excel.
-- I prepared six more files to be able to prepare this analysis. I used the old data titles by using SQL, and prepared the new ones. Those new files are [current_emp.csv], [mentorship_eligibility.csv], [retirement_info.csv], [retirement_titles.csv], [retiring_titles.csv], [unique_titles.csv].
+- The csv files we had were 'departments.csv', 'employees.csv', 'dept_emp.csv', 'dept_manager.csv', 'salaries.csv', 'titles.csv'. They were csv files converted from Excel.
+- I prepared six more files to be able to prepare this analysis. I used the old data titles by using SQL, and prepared the new ones. Those new files are 'current_emp.csv', 'mentorship_eligibility.csv', 'retirement_info.csv', 'retirement_titles.csv', 'retiring_titles.csv', 'unique_titles.csv'.
 - This project is based on those twelve files.
 
 ## Results
@@ -53,7 +53,7 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 ## Summary
   
   Pewlett-Hackard will be facing a difficult time in some years. However, this will be all right because Bob plans the future. To summarize, I prepared put here two more tables. 
-  If we compare "Figure 4" with "Figure 5" and "Figure 6", we will see that the company has a great human resource that mentors can train until the 'Silver Tsunami' comes. The new generation (born on 1980 and later [new_generation.csv]) is more than retiring people, and Pewlett-Hackard has enough mentorship-eligible people.
+  If we compare "Figure 4" with "Figure 5" and "Figure 6", we will see that the company has a great human resource that mentors can train until the 'Silver Tsunami' comes. The new generation (born on 1980 and later 'new_generation.csv') is more than retiring people, and Pewlett-Hackard has enough mentorship-eligible people.
   <p align="center">  
   <img width="252" alt="new _generation" src="https://user-images.githubusercontent.com/111788394/194958486-ce225e28-6636-443e-a886-ca6c49ae5844.png">
    <p align="center">  
