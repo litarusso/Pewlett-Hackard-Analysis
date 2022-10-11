@@ -8,13 +8,13 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 
 - Define retiring employees by their ages and group them by their titles.
 - Find out create  the most recent title of each employee
-- Separated employees who have already left the company
+- Separate employees who have already left the company
 - Find out the employees eligible for the mentorship program. To be able to assign eligible mentors to the new employees.
 
 ### Created New Data From 6 csv Files Of HR Department.
 
 - The csv files we had were [docs/departments.csv], [employees.csv], [dept_emp.csv], [dept_manager], [salaries], [titles]. They were csv files converted from Excel.
-- I prepared six more files to be able to prepare this analysis. I used the old data titles by using SQL and prepared the new ones. Those new files are [current_emp.csv], [mentorship_eligibility.csv], [retirement_info.csv], [retirement_titles.csv], [retiring_titles.csv], [unique_titles.csv].
+- I prepared six more files to be able to prepare this analysis. I used the old data titles by using SQL, and prepared the new ones. Those new files are [current_emp.csv], [mentorship_eligibility.csv], [retirement_info.csv], [retirement_titles.csv], [retiring_titles.csv], [unique_titles.csv].
 - This project is based on those twelve files.
 
 ## Results
@@ -44,7 +44,7 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 <p align="center">  
    Figure 3: Mentorship Eligible Employees
    
-   -  The table in "Figure 4" shows the number of retiring people eligible for the mentorship program by title. I prepared this additional table to understand how many mentors they will have and in which departments.
+   -  The table in "Figure 4" shows the number of retiring people eligible for the mentorship program by title. I prepared this additional table to understand how many mentors there will be and in which department.
  <p align="center">   
   <img width="253" alt="Screen Shot 2022-10-10 at 5 01 58 PM" src="https://user-images.githubusercontent.com/111788394/194952111-e1ff89a0-264b-429d-8735-fbc541083bb9.png">
 <p align="center">  
@@ -52,7 +52,7 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 
 ## Summary
   
-  Pewlett-Hackard will be facing a difficult time in some years. However, this will be all right because Bob plans the future. To have a summary, I prepared put here two more tables. 
+  Pewlett-Hackard will be facing a difficult time in some years. However, this will be all right because Bob plans the future. To summarize, I prepared put here two more tables. 
   If we compare "Figure 3" with "Figure 4" and "Figure 5", we will see that we have a great human resource that we can train until the 'Silver Tsunami' comes. The new generation is more than retiring people, and Pewlett-Hackard has enough mentorship-eligible people.
   <p align="center">  
   <img width="252" alt="new _generation" src="https://user-images.githubusercontent.com/111788394/194958486-ce225e28-6636-443e-a886-ca6c49ae5844.png">
