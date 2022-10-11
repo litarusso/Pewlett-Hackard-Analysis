@@ -53,7 +53,7 @@ The new analysis aims to prepare Pewlett-Hackard for the upcoming "silver tsunam
 ## Summary
   
   Pewlett-Hackard will be facing a difficult time in some years. However, this will be all right because Bob plans the future. To summarize, I prepared put here two more tables. 
-  If we compare "Figure 3" with "Figure 4" and "Figure 5", we will see that we have a great human resource that we can train until the 'Silver Tsunami' comes. The new generation is more than retiring people, and Pewlett-Hackard has enough mentorship-eligible people.
+  If we compare "Figure 3" with "Figure 4" and "Figure 5", we will see that we have a great human resource that we can train until the 'Silver Tsunami' comes. The new generation (born on 1980 and later) is more than retiring people, and Pewlett-Hackard has enough mentorship-eligible people.
   <p align="center">  
   <img width="252" alt="new _generation" src="https://user-images.githubusercontent.com/111788394/194958486-ce225e28-6636-443e-a886-ca6c49ae5844.png">
    <p align="center">  
